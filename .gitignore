@@ -31,9 +31,3 @@ Thumbs.db
 
 # Environment variables
 .env
-
-# Model files (optional)
-models/*.zip
-
-# Generated results (optional)
-results/*.png
